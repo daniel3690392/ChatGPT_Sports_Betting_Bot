@@ -1,9 +1,9 @@
 // Replace with your own firebase config!
 export const FIREBASE_CONFIG = {
- apiKey: "AIzaSyB55OOWTWROQumWL84P79txhwD2HspvSZs",
-  authDomain: "gpt-wager.firebaseapp.com",
-  projectId: "gpt-wager",
-  storageBucket: "gpt-wager.appspot.com",
+ apiKey: "AIzaSyCe4xvtjye9gikOI6yrbyONsihWuxtLqeQ",
+  authDomain: "Com.predictionbot.com",
+  projectId: "gptb-431ce",
+  storageBucket: "gptb-431ce.appspot.com",
   messagingSenderId: "380002747460",
   appId: "1:380002747460:web:7f3191826cc2c84eaf6811",
   measurementId: "G-YG2GY8D0FB"
